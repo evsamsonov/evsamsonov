@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
 <a href="https://github.com/evsamsonov">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=evsamsonov&show_icons=true&theme=vue&include_all_commits=true&count_private=true&disable_animations=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evsamsonov&layout=compact&theme=vue" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=evsamsonov&show_icons=true&theme=default&include_all_commits=true&count_private=true&disable_animations=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evsamsonov&layout=compact&theme=default" />
 </a>
 
 <!--
