@@ -1,9 +1,7 @@
 ### Hi there 👋 
 
-<a href="https://github.com/evsamsonov">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=evsamsonov&show_icons=true&theme=default&include_all_commits=true&count_private=true&disable_animations=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evsamsonov&layout=compact&theme=default" />
-</a>
+I’m currently working on automated algorithmic trading. 
+
 
 <!--
 **evsamsonov/evsamsonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
