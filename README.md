@@ -3,16 +3,16 @@
 I’m currently working on automated algorithmic trading. 
 
 Trading engine on Golang:\
-https://github.com/evsamsonov/trengin - A trading engine\
-https://github.com/evsamsonov/tinkoff-broker - An implementation of Broker interface using Tinkoff Invest API
+[trengin](https://github.com/evsamsonov/trengin) - A trading engine\
+[tinkoff-broker](https://github.com/evsamsonov/tinkoff-broker) - An implementation of Broker interface using Tinkoff Invest API
 
 Export quotes:\
-https://github.com/evsamsonov/quik-quotes-exporter - An exporter quotes from QUIK terminal\
-https://github.com/evsamsonov/jsonrpc-fsproxy - It passes requests to JSON-RPC server via files (using in quik-quotes-exporter)
+[quik-quotes-exporter](https://github.com/evsamsonov/quik-quotes-exporter) - An exporter quotes from QUIK terminal\
+[jsonrpc-fsproxy](https://github.com/evsamsonov/jsonrpc-fsproxy) - It passes requests to JSON-RPC server via files (using in quik-quotes-exporter)
 
 Base Golang trading packages:\
-https://github.com/evsamsonov/trading-timeseries - It provides structures for series of trading candles and ticks\
-https://github.com/evsamsonov/trading-indicators - Trading indicators
+[trading-timeseries](https://github.com/evsamsonov/trading-timeseries) - It provides structures for series of trading candles and ticks\
+[trading-indicators](https://github.com/evsamsonov/trading-indicators) - Trading indicators
 
 <!--
 **evsamsonov/evsamsonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
