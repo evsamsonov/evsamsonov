@@ -5,6 +5,7 @@ I’m currently working on automated algorithmic trading.
 Trading engine on Golang:\
 [trengin](https://github.com/evsamsonov/trengin) - A trading engine\
 [tinkoff-broker](https://github.com/evsamsonov/tinkoff-broker) - An implementation of Broker interface using Tinkoff Invest API
+[finam-broker](https://github.com/evsamsonov/finam-broker) - An implementation of Broker interface using Finam Trade API 
 
 Export quotes:\
 [quik-quotes-exporter](https://github.com/evsamsonov/quik-quotes-exporter) - An exporter quotes from QUIK terminal\
