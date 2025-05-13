@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I’m currently working on automated algorithmic trading. 
+I’m working on algorithmic trading and a Telegram bot for trade notifications in my free time https://t.me/TradePulseProBot
 
 Trading engine on Golang:\
 [trengin](https://github.com/evsamsonov/trengin) - A trading engine\
