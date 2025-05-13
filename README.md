@@ -1,6 +1,7 @@
 ### Hi there 👋 
 
 I’m working on algorithmic trading and a Telegram bot for trade notifications in my free time 
+
 https://t.me/TradePulseProBot
 
 Trading engine on Golang:\
