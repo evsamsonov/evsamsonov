@@ -2,7 +2,7 @@
 
 I’m currently working on a couple of Telegram bots:
 - <a href=https://t.me/TradePulseProBot>Trade Pulse</a> - a Telegram bot that delivers trading alerts based on technical analysis.
-- <a href=https://t.me/InsideSurferBo>Inside Surfer</a> - a self-reflection assistant for tracking thoughts and preparing for therapy sessions
+- <a href=https://t.me/InsideSurferBot>Inside Surfer</a> - a self-reflection assistant for tracking thoughts and preparing for therapy sessions
 
 You can check out some of my repositories:
 
