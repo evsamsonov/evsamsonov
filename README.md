@@ -4,6 +4,8 @@ I’m currently working on a couple of Telegram bots:
 - <a href=https://t.me/TradePulseProBot>Trade Pulse</a> - a Telegram bot that delivers trading alerts based on technical analysis.
 - <a href=https://t.me/InsideSurferBo>Inside Surfer</a> - a self-reflection assistant for tracking thoughts and preparing for therapy sessions
 
+You can check out some of my repositories:
+
 Trading engine on Golang:\
 [trengin](https://github.com/evsamsonov/trengin) - A trading engine\
 [tinkoff-broker](https://github.com/evsamsonov/tinkoff-broker) - An implementation of Broker interface using Tinkoff Invest API\
