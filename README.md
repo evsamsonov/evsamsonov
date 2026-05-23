@@ -1,8 +1,6 @@
 ### Hi, I'm Evgeny Samsonov
 
-I'm a Go backend developer focused on trading systems, distributed services, and practical product engineering.
-
-Most of my open-source work is built around automated trading infrastructure: market data processing, technical indicators, trading engines, and broker integrations.
+I'm a Go backend developer focused on trading systems, distributed services, and practical product engineering. Most of my open-source work is built around automated trading infrastructure: market data processing, technical indicators, trading engines, and broker integrations. I'm currently exploring how AI can improve the full software delivery lifecycle. 
 
 Currently I'm working on:
 
@@ -18,11 +16,3 @@ Currently I'm working on:
 - [finam-broker](https://github.com/evsamsonov/finam-broker) - Finam Trade API integration for `trengin`
 - [tinkoff-broker](https://github.com/evsamsonov/tinkoff-broker) - Tinkoff Invest API integration for `trengin`
 - [quik-quotes-exporter](https://github.com/evsamsonov/quik-quotes-exporter) - quote exporter from the QUIK trading terminal
-
-### Interests
-
-- Go backend development
-- Distributed systems and consensus algorithms
-- Trading infrastructure and market data processing
-- Developer tools and architecture practice
-- Product-minded automation with Telegram bots
