@@ -1,35 +1,28 @@
-### Hi there 👋 
+### Hi, I'm Evgeny Samsonov
 
-I’m currently working on a couple of Telegram bots:
-- <a href=https://t.me/TradePulseProBot>Trade Pulse</a> - a Telegram bot that delivers trading alerts based on technical analysis.
-- <a href=https://t.me/InsideSurferBot>Inside Surfer</a> - a self-reflection assistant for tracking thoughts and preparing for therapy sessions
+I'm a Go backend developer focused on trading systems, distributed services, and practical product engineering.
 
-You can check out some of my repositories:
+Most of my open-source work is built around automated trading infrastructure: market data processing, technical indicators, trading engines, and broker integrations.
 
-Trading engine on Golang:\
-[trengin](https://github.com/evsamsonov/trengin) - A trading engine\
-[tinkoff-broker](https://github.com/evsamsonov/tinkoff-broker) - An implementation of Broker interface using Tinkoff Invest API\
-[finam-broker](https://github.com/evsamsonov/finam-broker) - An implementation of Broker interface using Finam Trade API 
+Currently I'm working on:
 
-Export quotes:\
-[quik-quotes-exporter](https://github.com/evsamsonov/quik-quotes-exporter) - An exporter quotes from QUIK terminal\
-[jsonrpc-fsproxy](https://github.com/evsamsonov/jsonrpc-fsproxy) - It passes requests to JSON-RPC server via files (using in quik-quotes-exporter)
+- [Trade Pulse](https://t.me/TradePulseProBot) - a Telegram bot that delivers trading alerts based on technical analysis
+- [Inside Surfer](https://t.me/InsideSurferBot) - a self-reflection assistant for tracking thoughts and preparing for therapy sessions
+- [raftogram](https://github.com/evsamsonov/raftogram) - a Raft-replicated messenger backend in Go
 
-Base Golang trading packages:\
-[trading-timeseries](https://github.com/evsamsonov/trading-timeseries) - It provides structures for series of trading candles and ticks\
-[trading-indicators](https://github.com/evsamsonov/trading-indicators) - Trading indicators
+### Trading Systems
 
-<!--
-**evsamsonov/evsamsonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [trading-indicators](https://github.com/evsamsonov/trading-indicators) - technical indicators for trading systems: EMA, ATR, VWAP, trend detection
+- [trading-timeseries](https://github.com/evsamsonov/trading-timeseries) - data structures for trading candles, ticks, and time series
+- [trengin](https://github.com/evsamsonov/trengin) - a Go library for building automated trading robots
+- [finam-broker](https://github.com/evsamsonov/finam-broker) - Finam Trade API integration for `trengin`
+- [tinkoff-broker](https://github.com/evsamsonov/tinkoff-broker) - Tinkoff Invest API integration for `trengin`
+- [quik-quotes-exporter](https://github.com/evsamsonov/quik-quotes-exporter) - quote exporter from the QUIK trading terminal
 
-Here are some ideas to get you started:
+### Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Go backend development
+- Distributed systems and consensus algorithms
+- Trading infrastructure and market data processing
+- Developer tools and architecture practice
+- Product-minded automation with Telegram bots
