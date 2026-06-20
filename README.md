@@ -7,6 +7,7 @@ Currently I'm working on:
 - [Trade Pulse](https://t.me/TradePulseProBot) - a Telegram bot that delivers trading alerts based on technical analysis
 - [Inside Surfer](https://t.me/InsideSurferBot) - a self-reflection assistant for tracking thoughts and preparing for therapy sessions
 - [raftogram](https://github.com/evsamsonov/raftogram) - a Raft-replicated messenger backend in Go
+- [system-design-mentor](https://github.com/evsamsonov/system-design-mentor) - Agent skill for System Design mock interviews and architecture practice
 
 ### Trading Systems
 
